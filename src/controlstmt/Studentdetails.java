@@ -5,6 +5,7 @@ public class Studentdetails {
         int maths=77,english=55,biology=66,hindi=76,physics=78, total;
         total=maths+english+biology+hindi+physics;
         System.out.println(total);
+        System.out.println("maths" +maths+"\n english"+english);
 
     }
 }
